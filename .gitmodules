@@ -13,3 +13,6 @@
 [submodule "pack/Encore/start/indentmini.nvim"]
 	path = pack/Encore/start/indentmini.nvim
 	url = https://github.com/nvimdev/indentmini.nvim.git
+[submodule "pack/Encore/start/autoclose.nvim"]
+	path = pack/Encore/start/autoclose.nvim
+	url = https://github.com/m4xshen/autoclose.nvim.git
