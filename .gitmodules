@@ -1,0 +1,12 @@
+[submodule "pack/Encore/start/nvim-tree.lua"]
+	path = pack/Encore/start/nvim-tree.lua
+	url = https://github.com/nvim-tree/nvim-tree.lua.git
+[submodule "pack/Encore/start/nvim-web-devicons"]
+	path = pack/Encore/start/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons.git
+[submodule "pack/Encore/start/gitsigns.nvim"]
+	path = pack/Encore/start/gitsigns.nvim
+	url = https://github.com/lewis6991/gitsigns.nvim.git
+[submodule "pack/Encore/start/barbar.nvim"]
+	path = pack/Encore/start/barbar.nvim
+	url = https://github.com/romgrk/barbar.nvim.git
