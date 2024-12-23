@@ -10,3 +10,6 @@
 [submodule "pack/Encore/start/barbar.nvim"]
 	path = pack/Encore/start/barbar.nvim
 	url = https://github.com/romgrk/barbar.nvim.git
+[submodule "pack/Encore/start/indentmini.nvim"]
+	path = pack/Encore/start/indentmini.nvim
+	url = https://github.com/nvimdev/indentmini.nvim.git
