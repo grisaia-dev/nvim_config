@@ -25,3 +25,12 @@
 [submodule "pack/Encore/start/nvim-lspconfig"]
 	path = pack/Encore/start/nvim-lspconfig
 	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "pack/Encore/start/cmp-nvim-lsp"]
+	path = pack/Encore/start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp.git
+[submodule "pack/Encore/start/cmp-nvim-lsp-signature-help"]
+	path = pack/Encore/start/cmp-nvim-lsp-signature-help
+	url = https://github.com/hrsh7th/cmp-nvim-lsp-signature-help.git
+[submodule "pack/Encore/start/nvim-cmp"]
+	path = pack/Encore/start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp.git

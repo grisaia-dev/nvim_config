@@ -13,3 +13,4 @@ require('configs.theme')
 
 -- LSP AND CMP
 require('configs.lspconfig')
+require('configs.completion')

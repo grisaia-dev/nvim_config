@@ -20,9 +20,9 @@ for type, icon in pairs(signs) do
   vim.fn.sign_define(hl, { text = icon, texthl = hl, numhl = hl })
 end
 
--- local capabilities = require('cmp_nvim_lsp').default_capabilities()
+local capabilities = require('cmp_nvim_lsp').default_capabilities()
 lspconfig.clangd.setup({
-    --capabilities = capabilities,
+    capabilities = capabilities,
     cmd = {
         'clangd',
         '--background-index',
@@ -44,7 +44,7 @@ lspconfig.clangd.setup({
 })
 
 lspconfig.cmake.setup({
-    --capabilities = capabilities,
+    capabilities = capabilities,
     filetypes = { 'cmake' },
     cmd = { 'cmake-language-server' },
     single_file_support = true,
