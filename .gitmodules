@@ -22,3 +22,6 @@
 [submodule "pack/Encore/start/lackluster.nvim"]
 	path = pack/Encore/start/lackluster.nvim
 	url = https://github.com/slugbyte/lackluster.nvim.git
+[submodule "pack/Encore/start/nvim-lspconfig"]
+	path = pack/Encore/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git

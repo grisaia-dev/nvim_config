@@ -10,3 +10,6 @@ require('configs.barbar')
 
 -- colorscheme
 require('configs.theme')
+
+-- LSP AND CMP
+require('configs.lspconfig')
