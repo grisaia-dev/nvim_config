@@ -22,3 +22,4 @@ keymap('n', 'gp', '<cmd>Gitsigns preview_hunk_inline<CR>', opts)
 -- barbar
 keymap('n', '[b', '<cmd>BufferPrevious<CR>', opts)
 keymap('n', ']b', '<cmd>BufferNext<CR>', opts)
+keymap('n', '[q', '<cmd>BufferDelete<CR>', opts)

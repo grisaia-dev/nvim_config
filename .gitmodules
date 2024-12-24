@@ -16,3 +16,9 @@
 [submodule "pack/Encore/start/autoclose.nvim"]
 	path = pack/Encore/start/autoclose.nvim
 	url = https://github.com/m4xshen/autoclose.nvim.git
+[submodule "pack/Encore/start/no-clown-fiesta.nvim"]
+	path = pack/Encore/start/no-clown-fiesta.nvim
+	url = https://github.com/aktersnurra/no-clown-fiesta.nvim.git
+[submodule "pack/Encore/start/lackluster.nvim"]
+	path = pack/Encore/start/lackluster.nvim
+	url = https://github.com/slugbyte/lackluster.nvim.git

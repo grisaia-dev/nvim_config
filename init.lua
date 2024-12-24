@@ -8,3 +8,5 @@ require('configs.nvim_tree')
 require('configs.gitsigns')
 require('configs.barbar')
 
+-- colorscheme
+require('configs.theme')
