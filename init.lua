@@ -14,3 +14,6 @@ require('configs.theme')
 -- LSP AND CMP
 require('configs.lspconfig')
 require('configs.completion')
+
+--treesitter
+require('configs.treesitter')

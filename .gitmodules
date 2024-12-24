@@ -34,3 +34,6 @@
 [submodule "pack/Encore/start/nvim-cmp"]
 	path = pack/Encore/start/nvim-cmp
 	url = https://github.com/hrsh7th/nvim-cmp.git
+[submodule "pack/Encore/start/nvim-treesitter"]
+	path = pack/Encore/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
